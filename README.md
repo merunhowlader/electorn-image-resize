@@ -1,0 +1,1 @@
+# electorn-image-resize
